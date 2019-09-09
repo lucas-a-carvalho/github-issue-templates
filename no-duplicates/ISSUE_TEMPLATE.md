@@ -1,33 +1,31 @@
-Your issue may already be reported!
-Please search on the [issue tracker](../) before creating one.
+Seu problema já pode ter sido reportado!
+Por favor cheque o nosso [issue tracker](../) antes de criar uma nova issue.
 
-## Expected Behavior
-<!--- If you're describing a bug, tell us what should happen -->
-<!--- If you're suggesting a change/improvement, tell us how it should work -->
+## Comportamento Esperado
+<!--- Se estiver descrevendo um bug, nos diga o que deveria acontecer -->
+<!--- Se estiver nos dando uma sugestão de mudança/feature, nos diga como ela funcionaria -->
 
-## Current Behavior
-<!--- If describing a bug, tell us what happens instead of the expected behavior -->
-<!--- If suggesting a change/improvement, explain the difference from current behavior -->
+## Comportamento Atual
+<!--- Se estiver descrevendo um bug, nos diga o que acontece ao invés do esperado -->
+<!--- Se estiver nos dando uma sugestão de mudança/feature, explique a diferença do comportamento esperado -->
 
-## Possible Solution
-<!--- Not obligatory, but suggest a fix/reason for the bug, -->
-<!--- or ideas how to implement the addition or change -->
+## Possível Solução
+<!--- Não obrigatório, mas sugira um fix/razão para o bug, -->
+<!--- ou idéias de como implementar a mudança/feature -->
 
-## Steps to Reproduce (for bugs)
-<!--- Provide a link to a live example, or an unambiguous set of steps to -->
-<!--- reproduce this bug. Include code to reproduce, if relevant -->
+## Passos Para Reproduzir (para bugs)
+<!--- Forneça um link para um exemplo ou passos necessários para -->
+<!--- reproduzir o bug (se possível) -->
 1.
 2.
-3.
-4.
 
-## Context
-<!--- How has this issue affected you? What are you trying to accomplish? -->
-<!--- Providing context helps us come up with a solution that is most useful in the real world -->
+## Contexto
+<!--- Como o problema te afetou? O que você quer alcançar? -->
+<!--- Fornecer contexto nos ajuda a buscar soluções mais úteis e eficientes -->
 
-## Your Environment
-<!--- Include as many relevant details about the environment you experienced the bug in -->
-* Version used:
-* Browser Name and version:
-* Operating System and version (desktop or mobile):
-* Link to your project:
+## Seu Ambiente
+<!--- Inclua o maior número possível de detalhes sobre o ambiente em que o bug acontece -->
+* Ambiente (dev, hml, prod):
+* Versão usada:
+* Browser e sua versão:
+* Sistema Operacional (desktop ou mobile):
